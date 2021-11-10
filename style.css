@@ -301,7 +301,8 @@ section .title::after {
   margin: 10px 0 7px 0;
 }
 
-.projects .serv-content a {
+
+.experiences  a {
   display: inline-block;
   background: rgb(54, 101, 139);
   color: #fff;
@@ -313,7 +314,7 @@ section .title::after {
   border: 2px solid rgb(54, 101, 139);
   transition: all 0.3s ease;
 }
-.projects .serv-content a:hover {
+.experiences a:hover {
   background: #222323;
 }
 
